@@ -39,4 +39,4 @@
     
  }
  
- extension NSObject: Then ()
+ extension NSObject: Then {}
